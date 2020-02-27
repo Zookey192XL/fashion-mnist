@@ -1,6 +1,6 @@
-# fashion-mnist
-Fashion-MNIST Machine Learning Task
+# Fashion-MNIST Machine Learning Task
 
+* `python==3.7.5`
 * `matplotlib==3.1.1`
 * `seaborn==0.9.0`
 * `pandas==0.25.3`
