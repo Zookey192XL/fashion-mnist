@@ -224,9 +224,9 @@ def show_demo(X_test, y_test, model):
 
     for j, (prob, label) in enumerate(zip(probs, _LABELS)):
 
-        text_opts=dict(va="center",
-                       fontsize=12,
-                       fontfamily="Consolas")
+        text_opts = dict(va="center",
+                         fontsize=12,
+                         fontfamily="Consolas")
 
         if _LABELS[y] == label:
             text_opts["fontweight"] = "bold"
